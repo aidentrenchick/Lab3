@@ -1,0 +1,28 @@
+﻿body
+{
+background-color: silver;
+font-family: Arial, sans-serif;
+}
+p {
+font-size: 16px;
+line-height: 1.5;
+}
+strong {
+font-weight: bold;
+}
+
+em {
+font-style: italic;
+}
+
+ol, ul { 
+padding-left: 20px;
+}
+ img { 
+ max-width: 100%;
+ height: auto;
+ }
+ .copyright {
+ font-style: italic;
+ font-size: small;
+ }
